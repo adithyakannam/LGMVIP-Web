@@ -1,0 +1,1 @@
+open scr/app.js folder
