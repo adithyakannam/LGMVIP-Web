@@ -1,2 +1,1 @@
-# todo-list
-creating todo list using React Js
+Web development using HTML, CSS, JavaScript and React JS
