@@ -1,1 +1,1 @@
-open scr/app.js folder
+open todo-list/scr/app.js folder
